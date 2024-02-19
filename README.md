@@ -39,6 +39,9 @@ Gopher has created a command line application in which there are a few commands 
             Assigned To: CNCF
             Completion Status: false
             Cost: 2000
+               .
+               .
+               .
 - #### Update
     - **Aim**: Update the project data in Projects slice
     - **Points**: 25 🪙
