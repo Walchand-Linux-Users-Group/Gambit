@@ -23,7 +23,10 @@ func NewClass() *Manager {
 // ------------  CHANGE FOLLOWING CODE INORDER TO COMPLETE THE TASKS ------------------- //
 
 func (M Manager) Hello() string {
-	return "Hello From Manager"
+
+	// UNCOMMENT THE FOLLOWING CODE INORDER TO GET THE INITIAL POINTS
+	
+	// return "Hello From Manager"
 }
 
 func (M *Manager) Insert(cost int, status bool, assigned_to, project_name string) {
